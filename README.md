@@ -1,1 +1,1 @@
-# Make-school-app
+# WaniKani Cards
